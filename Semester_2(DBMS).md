@@ -1,16 +1,16 @@
-DBMS(Data Base Management System)
-=======
-## Definition
+# DBMS(Data Base Management System)
+## INTRODUCTION
+### Definition
 A database management system (DBMS) is system software for creating and managing databases. The DBMS provides users and programmers with a systematic way to create, retrieve, update and manage data.
-## Types
+### Types
 There are four structural types of database management systems:
 +Hierarchical databases
 +Network databases
 +Relational databases
 +Object-oriented databases
-## Some Examples
+### Some Examples
 Some **DBMS** examples include *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL Server*, *FileMaker*, *Oracle*, *RDBMS*, *dBASE*, *Clipper*, and *FoxPro*.
-## Characteristics
+### Characteristics
 1. Represent Some Aspects of real world applications
 2. Self Describing nature
 3. Logical relationship between records and data
