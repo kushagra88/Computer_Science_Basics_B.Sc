@@ -20,3 +20,12 @@ Some **DBMS** examples include *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL S
 There are more characteristics of *DBMS*.
 
 For breif visit the [site](https://www.quora.com/What-are-some-of-the-most-important-characteristics-of-DBMS"Characteristics")
+
+## GETTING STARTED
+A awesome platform to learn DBMS online is [w3schools](https://www.w3schools.in/dbms "w3schools")
+
+Tutorials in Hindi [link](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx)
+
+
+
+
