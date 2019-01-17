@@ -16,5 +16,7 @@ Some **DBMS** examples include *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL S
 3. Logical relationship between records and data
 4. Control Data Redundancy
 5. Query Language
+
 There are more characteristics of *DBMS*.
+
 For breif visit the [site](https://www.quora.com/What-are-some-of-the-most-important-characteristics-of-DBMS"Characteristics")
