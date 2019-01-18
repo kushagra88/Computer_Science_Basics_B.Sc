@@ -24,6 +24,8 @@ For breif visit the [site](https://www.quora.com/What-are-some-of-the-most-impor
 ## GETTING STARTED
 A awesome platform to learn DBMS online [w3schools](https://www.w3schools.in/dbms "w3schools")
 
+Another platform to study DBMS online is [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
+
 Tutorials in Hindi [link](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx)
 
 
