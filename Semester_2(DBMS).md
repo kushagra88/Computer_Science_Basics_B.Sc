@@ -30,9 +30,10 @@ Tutorials in Hindi [link](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebh
 
 ## Installing SQL
 
-1 Downlaod latest version of mySql from filehippo
-2 Install it nd Run
- Link to downlaod [mySql](https://filehippo.com/download_mysql/11938/)
++ Downlaod latest version of mySql from filehippo
++ Install it nd Run
+ 
+Link to downlaod [mySql](https://filehippo.com/download_mysql/11938/)
 
 
 
