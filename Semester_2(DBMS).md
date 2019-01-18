@@ -19,7 +19,7 @@ Some **DBMS** examples include *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL S
 
 There are more characteristics of *DBMS*.
 
-For breif visit the [site](https://www.quora.com/What-are-some-of-the-most-important-characteristics-of-DBMS"Characteristics")
+For breif visit the [youtube_page](https://www.quora.com/What-are-some-of-the-most-important-characteristics-of-DBMS"Characteristics")
 
 ## GETTING STARTED
 A awesome platform to learn DBMS online [w3schools](https://www.w3schools.in/dbms "w3schools")
@@ -27,6 +27,12 @@ A awesome platform to learn DBMS online [w3schools](https://www.w3schools.in/dbm
 Another platform to study DBMS online is [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
 
 Tutorials in Hindi [link](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx)
+
+## Installing SQL
+
+1.Downlaod latest version of mySql from filehippo
+2.Install it nd Run
+link to downlaod [mySql](https://filehippo.com/download_mysql/11938/)
 
 
 
