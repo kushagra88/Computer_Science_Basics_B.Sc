@@ -1,5 +1,4 @@
 # DBMS(Data Base Management System)
-## INTRODUCTION
 + ## WHAT IS DATABASE?
 Database is a collection of inter-related data which helps in efficient retrieval, insertion and deletion of data from database and organizes the data in the form of tables, views, schemas, reports etc. For Example, university database organizes the data about students, faculty, and admin staff etc.
 + ## WHAT IS DATA BASE MANAGEMENT SYSTEM?
@@ -15,17 +14,18 @@ Some **DBMS** examples include *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL S
 + Restricted acess to data
 
 * ## WHERE TO START?
-+ A awesome platform to learn DBMS online [w3schools](https://www.w3schools.in/dbms "w3schools")
++ [w3schools](https://www.w3schools.in/dbms "w3schools")
 
-+ Another platform to study DBMS online is [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
++ [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
 
-+ Tutorials in Hindi [link](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx) 
++ [Youtube_Tutorials](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx) 
 
 ## Installing SQL
 
-+ Downlaod latest version of mySql from filehippo
++ Downlaod latest version of mySql from filehippo or from the main site
 + Install it nd Run
 + Link to downlaod [mySql](https://filehippo.com/download_mysql/11938/)
++ Another link [mysql]()
 
 
 
