@@ -14,18 +14,18 @@ Some **DBMS** examples include *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL S
 + Restricted acess to data
 
 * ## WHERE TO START?
-+ [w3schools](https://www.w3schools.in/dbms "w3schools")
+  + [w3schools](https://www.w3schools.in/dbms "w3schools")
 
-+ [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
+  + [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
 
-+ [Youtube_Tutorials](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx) 
+  + [Youtube_Tutorials](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx)  
 
 ## Installing SQL
 
-+ Downlaod latest version of mySql from filehippo or from the main site
-+ Install it nd Run
-+ Link to downlaod [mySql](https://filehippo.com/download_mysql/11938/)
-+ Another link [mysql]()
+ + Downlaod latest version of mySql from filehippo or from the main site
+ + Install it nd Run
+ + Link to downlaod [mySql](https://filehippo.com/download_mysql/11938/)
+ + Another link [mysql]()
 
 
 
