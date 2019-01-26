@@ -1,4 +1,4 @@
-# + DBMS(Data Base Management System)
+# DBMS(Data Base Management System)
 ## INTRODUCTION
 ## WHAT IS DATABASE?
 Database is a collection of inter-related data which helps in efficient retrieval, insertion and deletion of data from database and organizes the data in the form of tables, views, schemas, reports etc. For Example, university database organizes the data about students, faculty, and admin staff etc.
