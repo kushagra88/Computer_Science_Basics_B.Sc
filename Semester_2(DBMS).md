@@ -20,7 +20,7 @@ Some **DBMS** examples include *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL S
 
   + [Youtube_Tutorials](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx)  
 
-## Installing SQL
++ ## HOW TO START?
 
  + Downlaod latest version of mySql from filehippo or from the main site
  + Install it nd Run
