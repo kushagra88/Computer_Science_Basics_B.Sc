@@ -13,7 +13,8 @@ Some **DBMS** examples include *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL S
 + Persistent data
 + Valueable data
 + Restricted acess to data
-## GETTING STARTED
+
+* ## WHERE TO START?
 A awesome platform to learn DBMS online [w3schools](https://www.w3schools.in/dbms "w3schools")
 
 Another platform to study DBMS online is [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
