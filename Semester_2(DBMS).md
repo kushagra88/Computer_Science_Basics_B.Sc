@@ -11,22 +11,21 @@ Some **DBMS** examples include *MySQL*, *PostgreSQL*, *Microsoft Access*, *SQL S
 + Large amount of data
 + Data is very structered
 + Persistent data
-+ Valueable data
++ Valuable data
 + Restricted acess to data
 
 * ## WHERE TO START?
-A awesome platform to learn DBMS online [w3schools](https://www.w3schools.in/dbms "w3schools")
++ A awesome platform to learn DBMS online [w3schools](https://www.w3schools.in/dbms "w3schools")
 
-Another platform to study DBMS online is [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
++ Another platform to study DBMS online is [geeksforgeeks](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
 
-Tutorials in Hindi [link](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx)
++ Tutorials in Hindi [link](https://www.youtube.com/playlist?list=PL7ersPsTyYt1ebhCAv0eLaQE-urdmELIx) 
 
 ## Installing SQL
 
 + Downlaod latest version of mySql from filehippo
 + Install it nd Run
- 
-Link to downlaod [mySql](https://filehippo.com/download_mysql/11938/)
++ Link to downlaod [mySql](https://filehippo.com/download_mysql/11938/)
 
 
 
